@@ -12,10 +12,9 @@ Clone o repositório usando Git:
 
 bash
 Copiar código
-git clone https://github.com/SEU_USUARIO/hotel-reservation.git
+git clone https://github.com/GabrielNunesDev/hotel-repository.git
 cd hotel-reservation
 
-~Substitua SEU_USUARIO pelo seu nome de usuário no GitHub.
 
 Configuração do Ambiente
 1. Inicie o RabbitMQ
